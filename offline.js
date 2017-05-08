@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1494163081,
+	"version": 1494210317,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -79,6 +79,13 @@
 		"media/winln.ogg",
 		"media/yeahln.ogg",
 		"media/aaa_ln.ogg",
+		"media/aaa.m4a",
+		"media/coinln.m4a",
+		"media/dieln.m4a",
+		"media/enemyln.m4a",
+		"media/jumpln.m4a",
+		"media/winln.m4a",
+		"media/yeahln.m4a",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
