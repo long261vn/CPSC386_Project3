@@ -1,7 +1,7 @@
 # CPSC386_Project3
 The Elements Game
 
-# Link: https://long261vn.github.io/CPSC386_Project3/
+# Link: https://long261vn.github.io/CPSC386_Project3/index.html
 
 # Backstory:
 
